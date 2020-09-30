@@ -32,4 +32,4 @@ VI. Computing in Context
   C. Legal issues and intellectual property
   D. Social and ethical ramifications of computer use
 
-
+[![Run on Repl.it](https://repl.it/badge/github/autolab/Labs-AP-CS)](https://repl.it/github/autolab/Labs-AP-CS)
